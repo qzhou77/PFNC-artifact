@@ -1,9 +1,0 @@
-defaults:
-  - model: pna
-  - dataset: yelp
-device: 0
-root: '/data/haiyang/datasets'
-log_every: 1
-pfn: false
-full_loss: False
-full_test: False

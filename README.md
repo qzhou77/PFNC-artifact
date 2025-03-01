@@ -9,9 +9,13 @@
 - motivation
 
   Code for exploratory data collection, such as in Figures 1, 3, 5, and 6.
+  
   Figure 1: `motivation/node_classification_inspect_embedding_importance.py`
+  
   Figure 3: `motivation/node_classification_inspect_embedding_importance.py`
+  
   Figure 5: `motivation/neighbor_num_plot.py`
+  
   Figure 6: `motivation/plot_cache_filter_importance.py`, `motivation/node_classification_inspect_embedding_importance.py`
 
 - pfnc-pkg

@@ -1,8 +1,0 @@
-defaults:
-  - model: pna
-  - dataset: flickr
-log_every: 1
-pfn: false
-full_test: false
-full_loss: false
-full_prefill: false

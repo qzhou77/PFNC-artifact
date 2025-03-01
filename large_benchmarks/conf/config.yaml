@@ -1,0 +1,10 @@
+defaults:
+  - model: pna
+  - dataset: flickr
+device: 0
+root: '/tmp/datasets'
+log_every: 1
+pfn: false
+full_test: false
+full_loss: false
+pfn_switch_epoch: 0
